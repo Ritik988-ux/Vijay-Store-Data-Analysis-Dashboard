@@ -40,7 +40,7 @@ Academic projects and assignments
 
 Interview portfolio demonstration
 
-▶️ How to Use the Dashboard
+▶️ **How to Use the Dashboard**
 
 Download the Excel file from the repository
 
